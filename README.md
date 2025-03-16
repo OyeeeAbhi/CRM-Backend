@@ -3,7 +3,7 @@
 1. Clone the repository
 
 ```
-git clone 
+git clone https://github.com/OyeeeAbhi/CRM-Backend.git
 ```
 
 2. Move into the directory
